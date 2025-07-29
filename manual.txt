@@ -1,0 +1,13 @@
+𝔄𝔲𝔩𝔞 𝟸𝟾.𝟶𝟽
+
+Mobile = 
+1. Criar pasta na área de trabalho;
+2. Digitar cmd na barra de pesquisa, no local do arquivo;
+3. Abrir o terminal cmd e digitar "npx create-expo-app@latest appAula0 --template";
+4. Abrir o emulador android;
+5. Escolher formato blank ou Default;
+6. Digitar, cd (pasta), dir (opcional, pois lista) code ., npm run android;
+7. Correr o emulador e o Visual Studio Code;
+8. Instalar o Expo GO;
+9. Abrir pasta com botão direito do mouse e selecionar o Git Bash.
+10. Escreva os seguintes comandos: Git init, git add ., git commit -m "first commit", git branch -M main, git remote add origin "link", git push -u origin main.
